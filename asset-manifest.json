@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/parsebioscience/static/css/main.680048ae.css",
+    "main.js": "/parsebioscience/static/js/main.a69481f8.js",
+    "static/js/787.bf95938c.chunk.js": "/parsebioscience/static/js/787.bf95938c.chunk.js",
+    "static/media/topImage.png": "/parsebioscience/static/media/topImage.ea62606303805a156092.png",
+    "static/media/comp2Icon.png": "/parsebioscience/static/media/comp2Icon.2cd77ac03a08edf891bf.png",
+    "static/media/comp5IMG.png": "/parsebioscience/static/media/comp5IMG.9d1a550882467bb9b57b.png",
+    "static/media/footerLogo.png": "/parsebioscience/static/media/footerLogo.31cc90991f9832ade1e5.png",
+    "static/media/dukenus.png": "/parsebioscience/static/media/dukenus.0d0f149de8829b230aec.png",
+    "static/media/nav3Icon.png": "/parsebioscience/static/media/nav3Icon.f3ea95559cd5b950a989.png",
+    "static/media/Jacques.png": "/parsebioscience/static/media/Jacques.e813a75701474fd5fa31.png",
+    "static/media/enrico.png": "/parsebioscience/static/media/enrico.113dafdf00243b651474.png",
+    "static/media/comp4Card.png": "/parsebioscience/static/media/comp4Card.dff04ccc095f7695089c.png",
+    "static/media/nav1Icon.png": "/parsebioscience/static/media/nav1Icon.cf98fb661ad0f45d5c4f.png",
+    "static/media/icons.png": "/parsebioscience/static/media/icons.b0cd3b05637e382d269f.png",
+    "static/media/nav2Icon.png": "/parsebioscience/static/media/nav2Icon.0c6c7a6feef3cc1d6753.png",
+    "static/media/parseLogo.png": "/parsebioscience/static/media/parseLogo.f91bbe7c6af3e4590202.png",
+    "index.html": "/parsebioscience/index.html",
+    "main.680048ae.css.map": "/parsebioscience/static/css/main.680048ae.css.map",
+    "main.a69481f8.js.map": "/parsebioscience/static/js/main.a69481f8.js.map",
+    "787.bf95938c.chunk.js.map": "/parsebioscience/static/js/787.bf95938c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.680048ae.css",
+    "static/js/main.a69481f8.js"
+  ]
+}
