@@ -2,7 +2,7 @@ import React from 'react';
 import './nav2.css'
 function Comp2() {
     return (
-        <div style={{backgroundColor:'rgba(245, 240, 248, 1)',}}>
+        <div>
         <div style={{marginLeft:'7%',padding:'10px'}}>
             <div className="nav2head" style={{marginTop:'2%'}}>
                 <p className="texts" style={{fontSize:'16px',fontWeight:'500'}}>
