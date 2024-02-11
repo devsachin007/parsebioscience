@@ -1,0 +1,47 @@
+/*.footer-list {*/
+/*    list-style: none;*/
+/*    padding: 0;*/
+/*    margin: 0;*/
+/*}*/
+
+.footer-list li {
+    list-style: none;
+    display: inline-block;
+    margin-right: 10px; /* Adjust the spacing between list items */
+}
+.footer-container {
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+    list-style: none;
+}
+
+.footer-column {
+    flex: 1;
+    text-align: left;
+    margin-right: 20px; /* Adjust the spacing between columns */
+    list-style: none;
+}
+
+.footer-column:last-child {
+    margin-right: 0; /* Remove margin from the last column */
+    list-style: none;
+}
+
+.footer-column h3 {
+    color: #fff;
+    margin-bottom: 10px;
+    list-style: none;
+}
+
+.footer-list li {
+    color: #ccc;
+    margin-bottom: 5px;
+    list-style: none;
+}
+
+.footer-list li:hover {
+    color: #fff; /* Change text color on hover */
+    cursor: pointer;
+    list-style: none;
+}

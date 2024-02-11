@@ -1,0 +1,76 @@
+.bg-main{
+    /*height:100vh;*/
+    background-image: url("Assets/topImage.png");
+    height: 100%;
+}
+.mpls{
+font-family: 'M PLUS 2', sans-serif;
+}
+.atkn{
+    font-family: 'Atkinson Hyperlegible', sans-serif;
+}
+.ubnt{
+    font-family:  'Ubuntu', sans-serif;
+}
+.btn{
+    background: linear-gradient(to right,rgba(182, 0, 124, 1),rgba(117, 0, 187, 1));
+
+}
+header{
+    padding: 10px 40px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.gradient-border-button {
+    /* Button Styles */
+    padding: 10px 20px;
+    font-size: 16px;
+    /*border: none;*/
+    border: 2px solid transparent;
+    border-image: linear-gradient(to right, rgba(117, 0, 187, 1), rgba(182, 0, 124, 1)) 1;
+    outline: none;
+    cursor: pointer;
+    color: #fff;
+    background-color: transparent;
+    position: relative;
+    overflow: hidden;
+}
+@media only screen and (max-width: 760px) {
+    header ul li{
+        display: none;
+    }
+    header button{
+        display: none;
+    }
+    header img{
+        display: flex;
+        width: 50%;
+        height: 80%;
+    }
+    .deviceText{
+        display: flex;
+        flex-direction: column;
+        justify-content: start;
+        align-items: start;
+    }
+    .deviceText p{
+        font-size: 14px;
+    }
+    .deviceText h1{
+        font-size: 48px;
+    }
+    .navBtn button {
+        background: rgba(0, 0, 0, 1);
+        /*font-size: 15px;*/
+        /*font-weight: 700;*/
+        width: 100%;
+        height: 100%;
+    }
+
+    .navBtn button:hover {
+        background: rgba(0, 0, 0, 0.8); /* Example hover background color */
+    }
+
+}

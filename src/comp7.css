@@ -1,0 +1,14 @@
+.gradient-border-button2 {
+    /* Button Styles */
+    padding: 10px 20px;
+    font-size: 16px;
+    /*border: none;*/
+    border: 2px solid transparent;
+    border-image: linear-gradient(rgba(117, 0, 187, 1) ,rgba(223, 206, 232, 0.32));
+    outline: none;
+    cursor: pointer;
+    color: #fff;
+    background-color: transparent;
+    position: relative;
+    overflow: hidden;
+}

@@ -1,0 +1,25 @@
+.bg-main{
+    height:100vh;
+    /*background-image: url("Assets/topImage.png");*/
+}
+.hero-section{
+    display: flex;
+    justify-content: start;
+    align-items: start;
+    margin-left: 10%;
+    margin-top: 5%;
+}
+.hero-content
+{
+    justify-content: start;
+    margin-left: 0;
+}
+.hero-section p,h1{
+    color: rgba(255, 255, 255, 1);
+}
+header{
+    padding: 10px 40px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
